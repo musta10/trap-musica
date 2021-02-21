@@ -3,6 +3,7 @@ import { Container, Header,Tab, Tabs } from 'native-base';
 import Tab1 from './tabs/Tab1';
 import Tab2 from './tabs/Tab2';
 import Tab3 from './tabs/Tab3';
+
 export default class TabsExample extends Component {
   render() {
     return (
